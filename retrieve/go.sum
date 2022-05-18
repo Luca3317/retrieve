@@ -1,0 +1,8 @@
+github.com/Luca3317/edwards25519copy v0.0.0-20220510150048-809af77bc112 h1:jDrPvXYLAzTVWMNJCCJZy9xmfRc6uuvRuLCghZ1ZQeQ=
+github.com/Luca3317/edwards25519copy v0.0.0-20220510150048-809af77bc112/go.mod h1:2gD8jg7DPDV6ke+bUtt5jfh5KWBJ+Nr+4ZKbIYpxqgA=
+github.com/Luca3317/libsignalcopy v0.0.0-20220518151231-03b543f1ab2b h1:uNskIibxR3UQurUjsAl0O5ma79Chulty183rSSQ7gLw=
+github.com/Luca3317/libsignalcopy v0.0.0-20220518151231-03b543f1ab2b/go.mod h1:Tdnr6bD4G6clqMJz85o/wa2yImIxCz7Kjw6EMuFKRXA=
+github.com/RadicalApp/complete v0.0.0-20170329192659-17e6c0ee499b h1:cAULFohNVfNzco0flF4okSPg3s7/tCj+hMIldtYZo4c=
+github.com/RadicalApp/complete v0.0.0-20170329192659-17e6c0ee499b/go.mod h1:zZ3+l0EkpT2ZPnoamPBG50PBUtQrXwwyJ6elQZMmqgk=
+golang.org/x/crypto v0.0.0-20220518034528-6f7dac969898 h1:SLP7Q4Di66FONjDJbCYrCRrh97focO6sLogHO7/g8F0=
+golang.org/x/crypto v0.0.0-20220518034528-6f7dac969898/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
